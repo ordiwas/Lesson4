@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\bin\Debug\AnimalInheritance.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\bin\Debug\AnimalInheritance.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\bin\Debug\AnimalInheritance.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\obj\Debug\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\obj\Debug\AnimalInheritance.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\AnimalInheritance\obj\Debug\AnimalInheritance.pdb

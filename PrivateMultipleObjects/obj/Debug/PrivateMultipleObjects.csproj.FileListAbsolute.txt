@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\obj\Debug\PrivateMultipleObjects.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\obj\Debug\PrivateMultipleObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\obj\Debug\PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\bin\Debug\PrivateMultipleObjects.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\bin\Debug\PrivateMultipleObjects.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\bin\Debug\PrivateMultipleObjects.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\obj\Debug\PrivateMultipleObjects.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\PrivateMultipleObjects\obj\Debug\PrivateMultipleObjects.pdb

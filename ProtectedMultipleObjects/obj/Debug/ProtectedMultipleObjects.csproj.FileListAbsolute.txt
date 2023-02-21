@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\bin\Debug\ProtectedMultipleObjects.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\bin\Debug\ProtectedMultipleObjects.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\bin\Debug\ProtectedMultipleObjects.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\obj\Debug\ProtectedMultipleObjects.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\obj\Debug\ProtectedMultipleObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\obj\Debug\ProtectedMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\obj\Debug\ProtectedMultipleObjects.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\ProtectedMultipleObjects\obj\Debug\ProtectedMultipleObjects.pdb

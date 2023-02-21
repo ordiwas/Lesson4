@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\bin\Debug\SimpleInheritance.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\bin\Debug\SimpleInheritance.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\bin\Debug\SimpleInheritance.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\obj\Debug\SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\obj\Debug\SimpleInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\obj\Debug\SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\obj\Debug\SimpleInheritance.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson4\SimpleInheritance\obj\Debug\SimpleInheritance.pdb
